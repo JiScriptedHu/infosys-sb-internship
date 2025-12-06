@@ -41,4 +41,4 @@ python app.py
 http://localhost:5000
 ```
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/951a2080-728e-42fe-83db-8cd3f8c674d6" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d5a4105b-bd56-4a06-81a1-3f6c159ba14a" />
