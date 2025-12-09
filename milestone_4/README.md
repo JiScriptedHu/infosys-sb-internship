@@ -65,3 +65,7 @@ python -m http.server 5500
 - **Data**: yfinance
 - **Frontend**: HTML, JavaScript, ApexCharts
 - **Security**: Argon2 password hashing
+
+<img width="1920" height="1020" alt="Screenshot 2025-12-09 172922" src="https://github.com/user-attachments/assets/50a56afb-10d6-4238-a16f-1436682f3c13" />
+
+<img width="1920" height="1020" alt="Screenshot 2025-12-09 173722" src="https://github.com/user-attachments/assets/5e0ecb00-6156-4ab4-914a-53ad42b383a0" />
